@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+*.zip
+
+# Hardhat files
+cache
+artifacts
+
+# add
+fireblocks_secret*.key
+fireblocks*.csr
