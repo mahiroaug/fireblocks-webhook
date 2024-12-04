@@ -25,6 +25,7 @@ const blockchainExplorerUrls = {
   ETH_TEST3: "https://goerli.etherscan.io/",
   ETH_TEST6: "https://holesky.etherscan.io/",
   MATIC: "https://polygonscan.com/",
+  MATIC_POLYGON: "https://polygonscan.com/",
   MATIC_POLYGON_MUMBAI: "https://mumbai.polygonscan.com/",
   AMOY_POLYGON_TEST: "https://amoy.polygonscan.com/",
 };
